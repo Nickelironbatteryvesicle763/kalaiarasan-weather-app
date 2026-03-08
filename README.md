@@ -24,8 +24,6 @@ It fetches live weather data using the **OpenWeather API**.
 
 weather-app
 ├── index.html
-├── style.css
-├── script.js
 └── README.md
 
 ## 🔑 API Setup
