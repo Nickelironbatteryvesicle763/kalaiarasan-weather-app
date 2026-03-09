@@ -26,6 +26,11 @@ weather-app
 ├── index.html
 └── README.md
 
+
+## Screenshot
+
+![Weather App](weather app.jpg)
+
 ## 🔑 API Setup
 
 1. Create an account on OpenWeather
